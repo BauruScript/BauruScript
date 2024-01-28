@@ -2,7 +2,7 @@
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://phlourenco92@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pehenriquelr)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-louren%C3%A7o-a16701261)
+
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=BauruScript&show_icons=true&theme=tokyonight)
 
